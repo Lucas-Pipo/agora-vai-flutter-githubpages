@@ -10765,19 +10765,20 @@ _.b=!0
 _.c=0
 _.d=!1
 _.e=null},
-vG:function vG(a,b,c,d,e,f,g,h,i,j,k,l){var _=this
+vG:function vG(a,b,c,d,e,f,g,h,i,j,k,l,m){var _=this
 _.c=a
 _.e=b
 _.f=c
 _.x=d
 _.z=e
-_.CW=f
-_.cx=g
-_.cy=h
-_.fx=i
-_.ok=j
-_.x1=k
-_.a=l},
+_.at=f
+_.CW=g
+_.cx=h
+_.cy=i
+_.fx=j
+_.ok=k
+_.x1=l
+_.a=m},
 ye:function ye(a,b,c,d,e,f,g){var _=this
 _.e=_.d=null
 _.r=_.f=!1
@@ -57864,7 +57865,7 @@ s.x1$=$.b_()
 s.to$=0
 this.aR(0)},
 M(a,b){var s=this,r=null,q=A.a9G(!0,A.km("cronometro conversor de segundos".toUpperCase(),r,r,r,B.k9,r,r)),p=A.km(B.i.i($.dK),r,r,r,B.Ix,r,r),o=A.b([$.aeO()],t.VS),n=t.F
-return A.abF(q,A.rb(A.a9X(A.b([B.yL,p,A.rb(A.aat(new A.vG(s.d,B.z0,B.FT,B.J4,B.e5,B.Fl,B.Fm,!1,B.Jv,o,!0,r),0.2),r,r),A.v1(A.b([A.aat(A.jx(A.km("a d i c i o n a r".toUpperCase(),r,r,r,r,r,r),new A.a29(s)),r),A.jx(A.km("r e m o v e r".toUpperCase(),r,r,r,r,r,r),new A.a2a(s))],n),B.bn,B.c5,B.bb),A.v1(A.b([A.jx(B.yX,new A.a2b(s)),A.jx(B.yY,new A.a2c(s))],n),B.bn,B.c5,B.bb),A.v1(A.b([A.jx(B.Jm,new A.a2d(s))],n),B.bn,B.CA,B.bb)],n),B.c5,B.bb),r,r))}}
+return A.abF(q,A.rb(A.a9X(A.b([B.yL,p,A.rb(A.aat(new A.vG(s.d,B.z0,B.FT,B.J4,B.e5,!1,B.Fl,B.Fm,!1,B.Jv,o,!0,r),0.2),r,r),A.v1(A.b([A.aat(A.jx(A.km("a d i c i o n a r".toUpperCase(),r,r,r,r,r,r),new A.a29(s)),r),A.jx(A.km("r e m o v e r".toUpperCase(),r,r,r,r,r,r),new A.a2a(s))],n),B.bn,B.c5,B.bb),A.v1(A.b([A.jx(B.yX,new A.a2b(s)),A.jx(B.yY,new A.a2c(s))],n),B.bn,B.c5,B.bb),A.v1(A.b([A.jx(B.Jm,new A.a2d(s))],n),B.bn,B.CA,B.bb)],n),B.c5,B.bb),r,r))}}
 A.a24.prototype={
 $0(){$.dK=$.dK+1},
 $S:0}
